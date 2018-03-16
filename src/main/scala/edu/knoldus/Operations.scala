@@ -5,7 +5,7 @@ import edu.knoldus.CassandraProvider._
 
 import scala.collection.JavaConverters._
 
-class Operations extends {
+class Operations {
 
 
   val cassandraSession: Session = getCassandraSession
